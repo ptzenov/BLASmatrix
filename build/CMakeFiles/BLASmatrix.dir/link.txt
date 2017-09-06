@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/BLASmatrix.dir/src/matrix.cpp.o CMakeFiles/BLASmatrix.dir/src/main.cpp.o  -o BLASmatrix  -L/home/kenny/Documents/workspaces/githubrepos/BLASmatrix/lib -rdynamic -lgsl -lgslcblas -Wl,-rpath,/home/kenny/Documents/workspaces/githubrepos/BLASmatrix/lib 
